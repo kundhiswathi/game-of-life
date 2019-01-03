@@ -1,5 +1,8 @@
 
 Hello checking merge
 Hello changed the repo
+<<<<<<< HEAD
 hello3
+=======
+>>>>>>> branch 'master' of https://github.com/kundhiswathi/game-of-life.git
 Hello2
