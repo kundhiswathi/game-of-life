@@ -1,6 +1,5 @@
-<<<<<<< HEAD
-Hello checking merge
-=======
->>>>>>> branch 'master' of https://github.com/kundhiswathi/game-of-life.git
-Hello changed the repo
 
+Hello checking merge
+Hello changed the repo
+hello3
+Hello2
