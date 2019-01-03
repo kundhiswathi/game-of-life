@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 Hello checking merge
+=======
+>>>>>>> branch 'master' of https://github.com/kundhiswathi/game-of-life.git
 Hello changed the repo
 
